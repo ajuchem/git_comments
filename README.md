@@ -9,3 +9,5 @@ Keep in mind: This has all been said before.
 - Use the imperative mood in the subject line
 - Wrap the body at 72 characters
 - Use the body to explain what and why vs. how
+
+From http://chris.beams.io/
